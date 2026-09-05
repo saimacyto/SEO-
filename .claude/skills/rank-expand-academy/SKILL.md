@@ -119,6 +119,13 @@ SEO-hack videos instead of implementing what's already known):
 The tell for busywork: it's self-focused and never puts the work in front of real
 people/prospects.
 
+## What success actually looks like (set expectations accordingly)
+
+Real SEO/business success is boring, not cinematic — steady, consistent, revenue-generating
+reps compounding quietly, not flashy dashboards, viral posts, or expensive setups. When someone
+compares their (unglamorous) progress to social-media highlight reels, reframe: the fancy gear
+and branding are not the signal; rep count on revenue-generating work is.
+
 ## Working style this course expects
 
 - Small, precise, daily (5x/week) implementation — not binge-consuming modules.

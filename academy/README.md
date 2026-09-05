@@ -27,6 +27,7 @@ Engine) for scaling a business once you've already made your first money — not
 - [`03-what-it-actually-takes/`](./03-what-it-actually-takes/README.md) — The only three real skills needed (80/20 SEO strategy, customer awareness, consistency), why grit can't be faked, and what you explicitly don't need (coding, a big tool budget, a personal brand).
 - [`04-reps-are-the-roi/`](./04-reps-are-the-roi/README.md) — The gym-machine analogy: find the few repeatable, compounding activities that move the needle, then just do the reps daily instead of chasing new tactics.
 - [`05-revenue-generating-activities/`](./05-revenue-generating-activities/README.md) — The concrete list of revenue-generating "reps" (outreach, weekly publishing, semantic branching, AI Overview optimization, internal linking, technical fixes, conversion work, GSC review, content refreshes, credibility signals, promotion) vs. busywork that only feels productive.
+- [`06-real-financial-success/`](./06-real-financial-success/README.md) — Why real SEO success looks boring (a $6M+ case study run from a single broken-screen laptop): consistent, revenue-generating reps compound quietly and only look "explosive" from the outside.
 
 ## How this archive grows
 
