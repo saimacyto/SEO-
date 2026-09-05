@@ -1,0 +1,79 @@
+---
+name: rank-expand-academy
+description: Apply Rank Expand Academy's SEO/AI-search methodology and first-$1k playbooks (Upwork Playbook, Microsite Playbook, Offer Library, AI Tools & Workflows, Outreach at Scale). Use when the user asks for SEO strategy, AI Overview optimization, microsite planning, client outreach, or productized SEO/AI offers, or references Rank Expand Academy, semantic branching, or Owner OS.
+---
+
+# Rank Expand Academy — Operating Skill
+
+Condensed operating knowledge from the Rank Expand Academy course. The full source material
+(quoted verbatim as it's shared) lives in [`academy/`](../../../academy/README.md) at the repo
+root — read the relevant module folder there for exact wording, checklists, and context before
+acting on anything nuanced; this file is the fast-reference summary.
+
+## Core methodology (the only four things that matter)
+
+1. **Semantic Branching** — structuring topical/content clusters around real search intent
+   rather than isolated keywords, so a site builds authority across a semantic neighborhood.
+2. **AI Overview Optimization** — formatting and structuring content specifically to earn
+   citation/inclusion inside Google AI Overviews and other AI-powered search surfaces, not just
+   classic blue-link rankings.
+3. **Microsite Authority Stacking** — launching focused microsites that dominate local or niche
+   search, then stacking their authority signals rather than relying on one generalist site.
+4. **Purpose-driven Content Systems** — every piece of content ships to serve a specific
+   business outcome (rank, convert, or support the cluster) — not volume for its own sake.
+
+Operating principle: execution over more knowledge. When advising, favor the smallest precise
+action that moves one of the four levers above, not an exhaustive checklist.
+
+## Two paths to a first $1,000
+
+- **Upwork Playbook** — find a buyer for SEO/AI work today, deliver, get paid. Fastest path to
+  cash; good default recommendation for someone who needs revenue proof before building assets.
+- **Microsite Playbook** — build a ranking microsite, then lease it to a local business or sell
+  its generated leads. Slower to first dollar, but builds a durable asset.
+
+When asked "which path should I start," ask what the user already has: an existing skill/service
+to sell now → Upwork Playbook; time/patience to build an asset and no immediate client → Microsite
+Playbook.
+
+## Supporting catalog & toolkit
+
+- **Offer Library** — the productized deliverables sold on either path (e.g. audits, content
+  packages, technical fixes, microsite builds) — pull from here rather than inventing a scope.
+- **AI Tools & Workflows** — custom GPTs and n8n workflows that actually produce the
+  deliverables; prefer wiring these up over doing the work manually.
+- **Outreach at Scale** — cold outreach systems for finding clients beyond Upwork.
+
+## Owner OS (out of scope until first $1k)
+
+A separate, later-stage program for scaling into a business once a member has real wins:
+Owner OS (operating system), Microsite Empire (portfolio scaling), Agency Engine (recurring
+service business). Don't route a beginner here — point to it only after their first $1k, when
+they're deciding whether to turn this into a recurring business.
+
+## Community & unlock mechanics (context, not something this skill can act on)
+
+- Standard resources (both playbooks, Microsite Builder, Niche Validator, Offer Library, AI
+  workflows, weekly calls) are available immediately.
+- Premium resources unlock on a membership-age schedule for monthly members (annual members get
+  everything day one): Microsite Empire at 30 days, Agency Engine at 60 days, Backlink Rolodex
+  growing monthly after month 1.
+- Levels are driven by likes received on posts/comments; Level 3 (20 likes) unlocks "Wisdom's In
+  The Calls." The monthly unrecorded "Off the Record" call invites whoever is on the 30-day
+  leaderboard at month-end.
+- If the user asks whether something should be locked/gated in a tool or workflow you're
+  building for them, this is the model to mirror unless they say otherwise.
+
+## Working style this course expects
+
+- Small, precise, daily (5x/week) implementation — not binge-consuming modules.
+- Ship from day one; don't accumulate theory without shipping against the current module.
+- Community accountability matters (intros, replies, weekly live reviews) — mention it when
+  relevant, but it's not something this skill can do on the user's behalf.
+
+## Growing this skill
+
+As more modules/templates/workflows are shared, add their raw content under a new
+`academy/NN-module-name/README.md` and fold any new durable operating rules into this file's
+relevant section — keep the "core methodology" list itself frozen (it's only ever the four items
+above) and add specifics underneath.
