@@ -73,6 +73,20 @@ exposure to peers already getting the results in question, not more information.
 someone through this material, it's worth surfacing this explicitly rather than only giving
 tactics — a person who believes the ceiling is fixed won't act on tactics that could break it.
 
+## The three skills that actually matter (80/20)
+
+1. **80/20 SEO strategy** — enough to implement semantic branching / AI Overviews / microsites.
+   Basics + nuance; don't let nuance obscure the small set of levers that move the needle.
+2. **Customer awareness** — understand why rankings matter to the business (leads, sales,
+   visibility) and how the strategy solves that. Applies to client work and equally to a
+   solo-website owner who needs to evaluate their own business objectively.
+3. **Consistency** — doing 1 and 2 repeatedly until it compounds. This is the actual
+   differentiator, not more knowledge — grit can't be faked or shortcut.
+
+Explicitly **not** required: coding/technical-SEO-wizard skill, design skill, expensive tooling
+(Ahrefs/Surfer-tier spend), being a "closer," or a personal brand — quiet implementers get the
+best results. What's required: roughly an hour or two a day of actual execution.
+
 ## Working style this course expects
 
 - Small, precise, daily (5x/week) implementation — not binge-consuming modules.
