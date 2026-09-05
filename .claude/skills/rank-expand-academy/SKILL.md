@@ -64,6 +64,15 @@ they're deciding whether to turn this into a recurring business.
 - If the user asks whether something should be locked/gated in a tool or workflow you're
   building for them, this is the model to mirror unless they say otherwise.
 
+## Limiting beliefs (the real blocker, per the course)
+
+The course's framing: stalled traffic/leads/revenue is rarely a knowledge gap — it's usually an
+unexamined belief about what's possible (e.g. "can't compete without $5K/month," "not technical
+enough," "flat growth is normal"). Humans anchor expectations on peer consensus, so the fix is
+exposure to peers already getting the results in question, not more information. When coaching
+someone through this material, it's worth surfacing this explicitly rather than only giving
+tactics — a person who believes the ceiling is fixed won't act on tactics that could break it.
+
 ## Working style this course expects
 
 - Small, precise, daily (5x/week) implementation — not binge-consuming modules.

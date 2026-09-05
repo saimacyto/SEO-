@@ -23,6 +23,7 @@ Engine) for scaling a business once you've already made your first money — not
 - [`00-orientation/`](./00-orientation/README.md) — Pre-program housekeeping, intros, mindset/why-this-works framing.
   - [`community-and-unlocks.md`](./00-orientation/community-and-unlocks.md) — mindset, how levels/likes work, and the schedule premium resources (Microsite Empire, Agency Engine, Backlink Rolodex, Wisdom's In The Calls, Off the Record) unlock on.
 - [`01-first-1000/`](./01-first-1000/README.md) — The "first $1,000 online" structure: the two playbooks, the offer catalog, and the toolkit.
+- [`02-limiting-beliefs/`](./02-limiting-beliefs/README.md) — Why unconscious limiting beliefs (not missing knowledge) are the real blocker, and the peer-consensus effect of being around members who are already getting results.
 
 ## How this archive grows
 
