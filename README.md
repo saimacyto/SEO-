@@ -1,0 +1,195 @@
+# Log File Genius
+
+**Stop the context rot. Give your AI a genius-level memory.**
+
+> A token-efficient documentation system that reduces AI context bloat by 93% while maintaining near perfect project memory.
+
+[![GitHub stars](https://img.shields.io/github/stars/clark-mackey/log-file-genius?style=social)](https://github.com/clark-mackey/log-file-genius/stargazers)
+[![Use this template](https://img.shields.io/badge/use%20this-template-blue)](https://github.com/clark-mackey/log-file-genius/generate)
+[![License: MIT](https://img.shields.io/github/license/clark-mackey/log-file-genius)](LICENSE)
+
+[Quick Start](#-quick-start) • [Installation Guide](INSTALL.md) • [Migration Guide](docs/MIGRATION_GUIDE.md) • [The Methodology](docs/log_file_how_to.md) • [Examples](examples/) • [Why It's Genius](#-why-its-genius)
+
+---
+
+## 😫 The Problem: Your AI Has a Terrible Memory
+
+Traditional project documentation becomes a bloated mess over time. Your AI coding assistant spends half its context window just trying to remember what happened last week.
+
+**Before Log File Genius:**
+- 📊 **90,000-110,000 tokens** of verbose logs.
+- 🤖 **45-55% of your AI's context window** wasted on history.
+- ❌ **Result:** The AI lacks context, makes uninformed decisions, and repeats past mistakes.
+
+It's like trying to have a conversation with someone who has amnesia. Every. Single. Day.
+
+Or maybe you are new here and vibe coding your first projects. 
+
+**Vibe Coding Before Log File Genius:**
+- 📊 **50,000-70,000 tokens** of retrying work-arounds and responding to your questions about how code works.
+- 🤖 **45-55% of your AI's context window** wasted on hand holding and ineffective loops through code.
+- ❌ **Result:** The AI has the wrong context, makes bad decisions, and hallucinates.
+
+## 💡 The Solution: A Genius-Level Memory
+
+Log File Genius is a five-document system that gives your AI a an improved long-term memory while consuming less than **5%** of its context window.
+
+**After Log File Genius:**
+- 📊 **~7,000-10,000 tokens** for complete project history.
+- 🤖 **93% reduction** in context bloat. 
+- ✅ **Result:** The AI has near-instant access to all decisions, changes, and narratives, leading to smarter, faster, and more accurate coding.
+
+| Document | The Vibe | Purpose | Token Budget |
+|---|---|---|---|
+| **PRD** | The Dream ✨ | What we're building and why | ~5k tokens |
+| **CHANGELOG** | The Facts 📊 | What changed (files, versions, facts) | ~2k tokens |
+| **DEVLOG** | The Story ✍️ | *Why* it changed (the narrative, the reasoning) | ~3k tokens |
+| **ADRs** | The Rules 🏛️ | How we made significant decisions | On-demand |
+| **STATE** | The Current State | What agent on what task? | <500 tokens |
+
+[Dive into the full methodology →](docs/log_file_how_to.md)
+
+---
+
+## 🧠 Why It's Genius
+
+This isn't just another documentation template. It's a complete system designed for AI-first development.
+
+- **93% Token Reduction:** Keep your context window free for what matters: the code you're writing *right now*. Sheds old context like a snake sheds its skin.
+
+- **Near Perfect Project Memory:** The five-document system separates facts from narrative, giving your AI a complete, holistic understanding of the project's history and goals.
+
+- **⚡ Zero-Search Navigation:** With bidirectional frontmatter linking, your AI never wastes tokens searching for files. It instantly knows where to find related documents.
+
+- **🤖 Multi-Agent Ready:** The included `STATE.md` file and handoff protocol provide a lightweight coordination layer, preventing agent collisions and duplicated work in complex, multi-agent environments.
+
+- **Scalable by Design:** The built-in archiving strategy keeps your active logs lean and fast, even on multi-year projects.
+
+- **Tool Agnostic:** Works seamlessly with Claude, Cursor, GitHub Copilot, Augment, and any other AI coding assistant. Your toaster will probably be running it soon.
+
+---
+
+## � Repository Structure
+
+
+See [`.project-identity.yaml`](.project-identity.yaml) for the full explanation of this structure and why it exists.
+
+---
+
+## 🚀 Quick Start
+
+### One-Command Installation (30 Seconds)
+
+**For detailed installation instructions, troubleshooting, and next steps, see [INSTALL.md](INSTALL.md).**
+
+Install Log File Genius in your existing project with a single command:
+
+**Bash/Mac/Linux:**
+```bash
+git submodule add -b main \
+  https://github.com/clark-mackey/log-file-genius.git \
+  .log-file-genius && \
+  ./.log-file-genius/product/scripts/install.sh
+```
+
+**PowerShell/Windows:**
+```powershell
+git submodule add -b main `
+  https://github.com/clark-mackey/log-file-genius.git `
+  .log-file-genius; `
+  .\.log-file-genius\product\scripts\install.ps1
+```
+
+The installer will:
+- ✅ Detect your AI assistant (Augment, Claude Code, etc.)
+- ✅ Prompt for your profile (solo-developer, team, open-source, startup)
+- ✅ Create standard `/logs/` folder structure
+- ✅ Install log file templates and AI assistant rules
+- ✅ Configure everything for immediate use
+
+**What gets installed:**
+- `logs/` - All your log files (CHANGELOG, DEVLOG, STATE, ADRs, incidents)
+- `.augment/` or `.claude/` - AI assistant rules
+- `.logfile-config.yml` - Profile configuration
+
+**What stays hidden:**
+- `.log-file-genius/` - Source repository (templates, scripts, docs - for updates)
+
+### ✅ Post-Installation Verification
+
+After installation, your project root should contain **ONLY** these files/folders:
+
+**Visible:**
+- `logs/` folder (contains CHANGELOG.md, DEVLOG.md, STATE.md, adr/)
+- `.logfile-config.yml` file (your profile configuration)
+
+**Hidden (may not show in file explorer by default):**
+- `.log-file-genius/` folder (git submodule - the source repository)
+- `.augment/` or `.claude/` folder (AI assistant rules)
+- `.git/` folder (your project's git repository)
+
+**❌ If you see a visible `log-file-genius/` folder (without the dot), something went wrong.** This means a full clone was created instead of a submodule. Delete it and re-run the installation command.
+
+**Total visible items added to your project root: 2** (logs/ folder + .logfile-config.yml file)
+
+---
+
+### Alternative: GitHub Template (For New Projects)
+
+Starting a brand new project? Use the GitHub template:
+
+1.  **Click the Button:**
+
+    [![Use this template](https://img.shields.io/badge/use%20this-template-blue?style=for-the-badge)](https://github.com/clark-mackey/log-file-genius/generate)
+
+2.  **Create Your New Repository:**
+    Give it a name. You now have the complete structure.
+
+3.  **Read the Guide:**
+    Follow the [**`log_file_how_to.md`**](.log-file-genius/docs/log_file_how_to.md) guide to start using the system.
+
+---
+
+### Updating Log File Genius
+
+Already installed? Update to the latest version:
+
+```bash
+# Update source
+cd .log-file-genius && git pull && cd ..
+
+# Re-run installer (smart merge, preserves customizations)
+./.log-file-genius/product/scripts/install.sh --force
+```
+
+---
+
+### Migration from Existing Docs
+
+Already have documentation? The installer creates a clean `/logs/` structure. You can:
+- **Start fresh:** Let the installer create new templates, then manually migrate your existing content
+- **Brownfield:** Keep your existing docs where they are and use Log File Genius alongside them
+- **Full migration:** Copy your existing CHANGELOG/DEVLOG content into the new `/logs/` files
+
+For detailed migration strategies, see [**Migration Guide**](.log-file-genius/docs/MIGRATION_GUIDE.md).
+
+---
+
+## 💬 Join the Community
+
+This project is for you. Your feedback, ideas, and contributions make it better.
+
+- 🐛 **[Report a bug](https://github.com/clark-mackey/log-file-genius/issues/new?template=bug_report.md)**
+- 💡 **[Request a feature](https://github.com/clark-mackey/log-file-genius/issues/new?template=feature_request.md)**
+- 💬 **[Join the discussions](https://github.com/clark-mackey/log-file-genius/discussions)** to ask questions or share your success stories.
+- ⭐ **Star this repo** if it saved you from context window hell!
+
+## Contributing
+
+Contributions are welcome! Whether it's improving the documentation, adding a new starter pack, or suggesting a new feature, please feel free to open an issue or pull request. Check out the [**`CONTRIBUTING.md`**](CONTRIBUTING.md) file for more details.
+
+---
+
+**Built with ❤️ by [Clark Mackey](https://github.com/clark-mackey)**
+
+*Inspired by the endless struggle against context window limits and weak sauce AI recommendations.*
