@@ -39,10 +39,14 @@ effort), requires pitching every weekday for the first month. Skills it builds: 
 gets noticed in a crowded market, pitching without racing to the lowest price, picking
 deliverables from the Offer Library, a 30-day consistent-application cadence, and turning a
 first job into a repeat client or referral.
-Microsite = build once, monetize repeatedly (lease/affiliate/ads), but 30–60 days to first
-dollar typically. If someone is stuck deciding, don't let them agonize: default to Upwork, give
-it 30 days, switch to Microsite if not landing clients — paralysis is the only real mistake.
-The Offer Library is the shared catalog both paths pitch from, not a path itself.
+Microsite = build once, monetize repeatedly, but 30–60 days to first dollar typically, and a
+small budget (~$15 domain + ~$10/mo hosting). Skills it builds: picking a niche/location a
+single new site can rank in, building/publishing fast with the One-Click Blueprint, ranking for
+buyer-intent keywords via semantic branching, and monetizing via lease, local SEO client, or
+lead sale — with the same framework scaling later into a portfolio (Microsite Empire, inside
+Owner OS). If someone is stuck deciding, don't let them agonize: default to Upwork, give it 30
+days, switch to Microsite if not landing clients — paralysis is the only real mistake. The
+Offer Library is the shared catalog both paths pitch from, not a path itself.
 
 ## Supporting catalog & toolkit
 

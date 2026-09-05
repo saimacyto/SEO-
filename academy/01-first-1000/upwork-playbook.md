@@ -17,7 +17,8 @@ nothing upfront. Most members start here.
 
 - You've tried freelancing platforms before and hated the race-to-the-bottom dynamics.
 - You'd rather build an asset you own than sell your time. (→ see
-  [Suggested Path](./suggested-path.md) and the Microsite Playbook instead.)
+  [Suggested Path](./suggested-path.md) and the [Microsite Playbook](./microsite-playbook.md)
+  instead.)
 
 ## What you'll learn inside the playbook
 
