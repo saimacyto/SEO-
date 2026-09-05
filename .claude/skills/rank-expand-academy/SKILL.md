@@ -87,6 +87,13 @@ Explicitly **not** required: coding/technical-SEO-wizard skill, design skill, ex
 (Ahrefs/Surfer-tier spend), being a "closer," or a personal brand — quiet implementers get the
 best results. What's required: roughly an hour or two a day of actual execution.
 
+## Reps over novelty ("the reps are the ROI")
+
+Don't chase new tactics weekly. Find a small number of proven, repeatable, compounding
+activities (the four core methodology levers above) and repeat them daily — results compound
+from repetition of a proven "machine," not from tactic-hopping. When advising, prefer
+recommending more reps of an already-working activity over introducing a new one.
+
 ## Working style this course expects
 
 - Small, precise, daily (5x/week) implementation — not binge-consuming modules.
