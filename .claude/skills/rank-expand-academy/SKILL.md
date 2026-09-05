@@ -67,6 +67,27 @@ Offer Library is the shared catalog both paths pitch from, not a path itself.
   manipulate ranking.
 - First two decisions before building anything: what service, what town.
 
+### Niche/town validation workflow (Step 1 of the Microsite Playbook)
+
+1. Brainstorm with the Niche Finder GPT (given location + existing knowledge) rather than
+   defaulting to a preconceived idea — good niches are usually ones not already considered.
+2. Validate 2-3 shortlisted service+town combos in the Niche Validator tool
+   (`tool.rankexpand.com/members`, access code `NICHECHECK`; 15 lookups/day for members).
+3. Manually sanity-check by Googling `"<service> <city> <state>"` in quotes and counting
+   competing results — a low competitor count relative to search volume and city size is a
+   green light (e.g. 29 competitors / 90 searches-month / 219K-pop city = a build).
+
+Judgment rules when advising on niche selection:
+- A map pack showing up is normal and not disqualifying — almost every local search has one now.
+- Low/no reported search volume isn't disqualifying either — volume tools miss demand, and one
+  converted job often pays for the whole site.
+- Enforce one service + one area per site — a second interesting service is a second site, not
+  more pages on this one.
+- Push past analysis paralysis: pick something high-ticket, low-competition, with no brand
+  loyalty in the category (e.g. nobody has a "favorite" company for an emergency repair) — a
+  live mediocre site teaches more in two weeks than another month of research, and a wrong pick
+  only costs an afternoon.
+
 ## Supporting catalog & toolkit
 
 - **Offer Library** — the productized deliverables sold on either path (e.g. audits, content
