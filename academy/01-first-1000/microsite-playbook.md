@@ -34,5 +34,7 @@ Open the playbook (Skool classroom) and begin.
 
 ---
 
-See also: [Suggested Path](./suggested-path.md) for how this fits against the Upwork Playbook,
-and the top-level [`README.md`](../README.md) for the overall program structure.
+See also: [The Model](./microsite-playbook-the-model.md) — what a microsite actually is (a
+small site that rings a phone), why small beats big, and the spam-question answer.
+[Suggested Path](./suggested-path.md) for how this fits against the Upwork Playbook, and the
+top-level [`README.md`](../README.md) for the overall program structure.

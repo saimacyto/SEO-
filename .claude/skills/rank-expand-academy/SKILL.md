@@ -48,6 +48,25 @@ Owner OS). If someone is stuck deciding, don't let them agonize: default to Upwo
 days, switch to Microsite if not landing clients — paralysis is the only real mistake. The
 Offer Library is the shared catalog both paths pitch from, not a path itself.
 
+### The microsite model, concretely ("a small site that rings a phone")
+
+- One site = one service + one town. Not a brochure site, not a blog — judged purely on lead
+  flow, not design.
+- Structure: one primary service page, a couple of extra service pages (so it reads as a real
+  business), plus 1-2 dozen town/neighborhood pages → typically **50-80 pages** per site.
+- Domain should be exact-match where possible (e.g. `plumbershouston.com`) — it signals intent
+  to Google before any content is read.
+- Target the long tail under the big obvious keyword, in one geography, where the searcher is
+  ready to call now — not a head-term fight with national companies. One converted lead often
+  pays for the whole site many times over.
+- Sites in a portfolio must NOT interlink with each other (that would be a private blog
+  network / spam pattern). Each site must be genuinely true and stand on its own; the "every
+  page should say something true, or it shouldn't go up" rule is the line not to cross.
+- Portfolio math: many cheap, real, non-interlinked sites compound (e.g. 78 sites in 6 months
+  from one member) — each one is an independent shot at ranking, not a network trying to
+  manipulate ranking.
+- First two decisions before building anything: what service, what town.
+
 ## Supporting catalog & toolkit
 
 - **Offer Library** — the productized deliverables sold on either path (e.g. audits, content
