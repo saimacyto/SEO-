@@ -32,9 +32,13 @@ action that moves one of the four levers above, not an exhaustive checklist.
 - **Microsite Playbook** — build a ranking microsite, then lease it to a local business or sell
   its generated leads. Slower to first dollar, but builds a durable asset.
 
-When asked "which path should I start," ask what the user already has: an existing skill/service
-to sell now → Upwork Playbook; time/patience to build an asset and no immediate client → Microsite
-Playbook.
+**Default recommendation: Upwork Playbook**, unless the user says they've tried freelancing and
+hated it, or explicitly wants to own an asset rather than sell time — then Microsite Playbook.
+Upwork = no upfront tool cost, fastest path to first dollar, requires pitching every weekday.
+Microsite = build once, monetize repeatedly (lease/affiliate/ads), but 30–60 days to first
+dollar typically. If someone is stuck deciding, don't let them agonize: default to Upwork, give
+it 30 days, switch to Microsite if not landing clients — paralysis is the only real mistake.
+The Offer Library is the shared catalog both paths pitch from, not a path itself.
 
 ## Supporting catalog & toolkit
 

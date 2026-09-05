@@ -23,6 +23,7 @@ Engine) for scaling a business once you've already made your first money — not
 - [`00-orientation/`](./00-orientation/README.md) — Pre-program housekeeping, intros, mindset/why-this-works framing.
   - [`community-and-unlocks.md`](./00-orientation/community-and-unlocks.md) — mindset, how levels/likes work, and the schedule premium resources (Microsite Empire, Agency Engine, Backlink Rolodex, Wisdom's In The Calls, Off the Record) unlock on.
 - [`01-first-1000/`](./01-first-1000/README.md) — The "first $1,000 online" structure: the two playbooks, the offer catalog, and the toolkit.
+  - [`suggested-path.md`](./01-first-1000/suggested-path.md) — the decision guide for picking Upwork vs. Microsite in under a minute (default: Upwork; switch to Microsite after 30 days if not landing clients).
 - [`02-limiting-beliefs/`](./02-limiting-beliefs/README.md) — Why unconscious limiting beliefs (not missing knowledge) are the real blocker, and the peer-consensus effect of being around members who are already getting results.
 - [`03-what-it-actually-takes/`](./03-what-it-actually-takes/README.md) — The only three real skills needed (80/20 SEO strategy, customer awareness, consistency), why grit can't be faked, and what you explicitly don't need (coding, a big tool budget, a personal brand).
 - [`04-reps-are-the-roi/`](./04-reps-are-the-roi/README.md) — The gym-machine analogy: find the few repeatable, compounding activities that move the needle, then just do the reps daily instead of chasing new tactics.

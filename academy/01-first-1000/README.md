@@ -39,4 +39,6 @@ right moment.
 
 ## What to do next
 
-Go to **Suggested Path** to pick which playbook (Upwork or Microsite) to start with.
+Go to **Suggested Path** to pick which playbook (Upwork or Microsite) to start with — see
+[`suggested-path.md`](./suggested-path.md) for the full decision guide (default to Upwork
+unless you have a reason not to; the only mistake is paralysis).
