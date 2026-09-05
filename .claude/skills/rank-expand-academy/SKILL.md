@@ -94,6 +94,31 @@ activities (the four core methodology levers above) and repeat them daily — re
 from repetition of a proven "machine," not from tactic-hopping. When advising, prefer
 recommending more reps of an already-working activity over introducing a new one.
 
+## Revenue-generating activities checklist (the concrete "reps")
+
+When advising or planning someone's day/week, prefer these over polish/busywork (brand kits,
+logos, fonts, tool shopping, "perfect" landing pages, social posts aimed at friends, more
+SEO-hack videos instead of implementing what's already known):
+
+- Outreach to business owners who need traffic/leads; consistent follow-up with non-responders.
+- Value-first content publishing so the audience finds the offer; calls to learn real pain
+  points and connect them to outcomes.
+- Weekly publishing of intent-targeted content (not "blog filler").
+- Semantic branching on existing pages — depth, connections, internal links.
+- AI Overview optimization — structured answers/FAQs eligible for AI Overviews and AI search
+  pulls (ChatGPT search, etc.).
+- Internal link pathways from every new publish back into existing clusters.
+- Technical fixes — site speed, crawlability, mobile UX.
+- Conversion improvements — CTAs, offers, forms.
+- Weekly GSC (Google Search Console) review — find near-page-one queries and publish/expand to
+  close the gap.
+- Refreshing stale content (12+ months old or losing traffic) with updated stats and depth.
+- Credibility/E-E-A-T signals — reviews, case studies, about pages.
+- Promotion — niche forums, LinkedIn, email list, so content doesn't sit in isolation.
+
+The tell for busywork: it's self-focused and never puts the work in front of real
+people/prospects.
+
 ## Working style this course expects
 
 - Small, precise, daily (5x/week) implementation — not binge-consuming modules.

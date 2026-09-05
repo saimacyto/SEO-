@@ -26,6 +26,7 @@ Engine) for scaling a business once you've already made your first money — not
 - [`02-limiting-beliefs/`](./02-limiting-beliefs/README.md) — Why unconscious limiting beliefs (not missing knowledge) are the real blocker, and the peer-consensus effect of being around members who are already getting results.
 - [`03-what-it-actually-takes/`](./03-what-it-actually-takes/README.md) — The only three real skills needed (80/20 SEO strategy, customer awareness, consistency), why grit can't be faked, and what you explicitly don't need (coding, a big tool budget, a personal brand).
 - [`04-reps-are-the-roi/`](./04-reps-are-the-roi/README.md) — The gym-machine analogy: find the few repeatable, compounding activities that move the needle, then just do the reps daily instead of chasing new tactics.
+- [`05-revenue-generating-activities/`](./05-revenue-generating-activities/README.md) — The concrete list of revenue-generating "reps" (outreach, weekly publishing, semantic branching, AI Overview optimization, internal linking, technical fixes, conversion work, GSC review, content refreshes, credibility signals, promotion) vs. busywork that only feels productive.
 
 ## How this archive grows
 
