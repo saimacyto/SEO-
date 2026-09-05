@@ -34,7 +34,11 @@ action that moves one of the four levers above, not an exhaustive checklist.
 
 **Default recommendation: Upwork Playbook**, unless the user says they've tried freelancing and
 hated it, or explicitly wants to own an asset rather than sell time — then Microsite Playbook.
-Upwork = no upfront tool cost, fastest path to first dollar, requires pitching every weekday.
+Upwork = no upfront tool cost, fastest path to first dollar (typically 2-4 weeks of consistent
+effort), requires pitching every weekday for the first month. Skills it builds: a profile that
+gets noticed in a crowded market, pitching without racing to the lowest price, picking
+deliverables from the Offer Library, a 30-day consistent-application cadence, and turning a
+first job into a repeat client or referral.
 Microsite = build once, monetize repeatedly (lease/affiliate/ads), but 30–60 days to first
 dollar typically. If someone is stuck deciding, don't let them agonize: default to Upwork, give
 it 30 days, switch to Microsite if not landing clients — paralysis is the only real mistake.
