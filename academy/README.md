@@ -42,4 +42,6 @@ above. Keep raw source material intact rather than summarizing away specifics (e
 names, playbook names, checklists) — those are what make this useful to come back to.
 
 See also: [`.claude/skills/rank-expand-academy/SKILL.md`](../.claude/skills/rank-expand-academy/SKILL.md)
-for the condensed operating skill distilled from this material.
+for the condensed operating skill distilled from this material, and
+[`my-progress/`](../my-progress/README.md) for the personal working log of decisions made
+while applying it (niche picks, action-item answers, build history).
