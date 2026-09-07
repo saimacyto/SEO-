@@ -1,6 +1,9 @@
-# Niche Decision: Foundation (Repair) — Dallas, TX
+# Niche Decision: Foundation (Repair) — Texas Towns
 
-**Status:** Under review — not yet a build/no-build call.
+Tracks foundation-repair + town combos evaluated for a first microsite. Started with Dallas,
+now also covers Richmond, TX.
+
+**Status:** Under review — not yet a build/no-build call on any combo.
 
 ## What was checked
 
@@ -47,4 +50,32 @@ same target town(s) in parallel, rather than anchoring only on foundation repair
 | Combo | Validator score | Competitors | Volume/mo | Manual quote-search competitor count | Notes |
 | ----- | ---------------- | ----------- | --------- | -------------------------------------- | ----- |
 | foundation repair — Dallas, TX | — | — | — | — | Likely too competitive/brand-loyal per reasoning above |
+| foundation repair — Richmond, TX | not yet run | not yet run | not yet run | 8+ dedicated competitors found (web search, not exact Google quote-count) | See findings below — leaning weak candidate |
 | foundation repair — (suburb TBD) | — | — | — | — | |
+
+## Richmond, TX — manual check findings (2026-09-07)
+
+Web search for `"foundation repair richmond tx"` (not a true Google exact-phrase count — still
+need the actual quoted Google search done by hand per Step 3) surfaced at least 8 established,
+dedicated competitors already targeting Richmond specifically by zip code (77406/77407/77469):
+
+- Richmond Foundation Repair Experts — serving since 1989
+- Bonilla Foundation Repair — 30+ years serving Richmond
+- Level Check Foundation Repair — lifetime transferable warranty
+- Dawson Foundation Repair — since 1984, Bell Bottom Piers
+- Atlas Foundation Repair (Houston) — dedicated Richmond service page
+- Texas Foundation Company, Today's Homeowner directory listing, Angi directory listing
+
+**Population:** Richmond, TX is small — roughly 12,500–13,800 (2026 estimates vary by source),
+much smaller than the Modesto, TX example in the playbook (219,000). It sits inside the
+Houston/Fort Bend County metro, where clay-soil foundation problems are a genuine, well-known
+regional issue — so real demand exists — but it's already claimed by multiple 30+-year local
+specialists with warranties, which is a real brand-loyalty signal.
+
+**Read:** small population **and** already-saturated by established players is a tough
+combination — this tracks with foundation repair's mid-pack 7/13 score in the
+[opportunity matrix](./niche-opportunity-scores.md). Leaning **weak candidate**, but not a final
+no — still want:
+1. The actual Google quote-search count for `"foundation repair richmond tx"` (done by hand,
+   not this web search).
+2. Real Niche Validator numbers (score / competitors / volume) for the combo.

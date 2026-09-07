@@ -9,6 +9,7 @@ opportunity pre-screen used to shortlist candidates before spending Validator lo
 
 | Date | Service | Town | Validator score | Competitors | Volume/mo | Decision |
 | ---- | ------- | ---- | ---------------- | ----------- | --------- | -------- |
-| 2026-09-07 | foundation (repair) | Dallas, TX | pending | pending | pending | Under review — see [entry](./2026-09-07-foundation-dallas.md) |
+| 2026-09-07 | foundation repair | Dallas, TX | pending | pending | pending | Under review — see [entry](./2026-09-07-foundation-dallas.md) |
+| 2026-09-07 | foundation repair | Richmond, TX | pending | 8+ (web search) | pending | Leaning weak — small city (~13K) already claimed by 30+yr local specialists — see [entry](./2026-09-07-foundation-dallas.md) |
 
 See individual entry files for full detail and reasoning.
