@@ -93,6 +93,18 @@ own email while testing, then straight to the paying client once a business is p
 leads — the report (call recording, transcript, lead-quality flag) is the actual product being
 sold, not just the phone call itself.
 
+### Going live (Step 5): free Cloudflare Pages, or existing shared hosting
+
+Static site (no database, nothing server-side) means free hosting is the default, not a
+compromise. Prefer **Cloudflare Pages** (Workers and Pages → Create application → drag the
+Builder's zip on → add the domain as a custom domain, HTTPS auto-provisions) — $0 cost beyond
+the domain itself, and a natural fit when the domain was also bought via Cloudflare Registrar
+(same account, no separate DNS hookup). Use shared hosting/FTP only if the user already pays
+for it or wants WordPress/email on the same domain. Common failure modes to check first: styled
+page missing = assets folder didn't come along or landed at the wrong level; "page not found" =
+files nested one level too deep (index.html must sit at the top of the upload, not inside a
+subfolder); domain not loading at all = DNS propagation delay, wait a few hours.
+
 ### Domain rules (Step 2 of the Microsite Playbook)
 
 - Buy at Cloudflare Registrar (~$10.44/yr `.com`, at-cost, flat renewal, WHOIS privacy
