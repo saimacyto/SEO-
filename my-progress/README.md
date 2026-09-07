@@ -12,6 +12,10 @@ and [Module 5, Action Item #3](../academy/05-revenue-generating-activities/READM
 - [`niche-decisions/`](./niche-decisions/README.md) — every service+town combo evaluated for
   the Microsite Playbook, with Niche Validator numbers, the manual Google sanity check, and the
   final call, following [Step 1 of the Microsite Playbook](../academy/01-first-1000/microsite-playbook-step1-niche-and-town.md).
+- [`site-builds/`](./site-builds/) — build and review history for each microsite once
+  generated (Builder output review findings, fixes made, what's still pending), following
+  [Step 3](../academy/01-first-1000/microsite-playbook-step3-build.md)'s "review and tighten"
+  step.
 
 ## How this grows
 
