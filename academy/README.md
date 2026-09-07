@@ -39,6 +39,7 @@ Engine) for scaling a business once you've already made your first money — not
 - [`06-real-financial-success/`](./06-real-financial-success/README.md) — Why real SEO success looks boring (a $6M+ case study run from a single broken-screen laptop): consistent, revenue-generating reps compound quietly and only look "explosive" from the outside.
 - [`bonus-community-wisdom/`](./bonus-community-wisdom/) — Operator-level community-shared workflows, not part of the core numbered playbook (this is where "Wisdom's In The Calls"-style content lives).
   - [`weekly-gsc-ai-optimization.md`](./bonus-community-wisdom/weekly-gsc-ai-optimization.md) — the weekly GSC-export + Claude Code/Codex analysis workflow for deciding new-page vs. update-page vs. no-action, plus a full portfolio-scale automation stack (OAuth → Postgres → Next.js/Vercel/Supabase) for pulling GSC data daily once managing multiple sites.
+  - [`image-compression-webp.md`](./bonus-community-wisdom/image-compression-webp.md) — converting site images to WebP for PageSpeed (Squoosh for one-off, XnConvert for free local bulk conversion) — a 12MB homepage example dropping to 1.86MB, and applying the same pass to our own first site.
 
 ## How this archive grows
 

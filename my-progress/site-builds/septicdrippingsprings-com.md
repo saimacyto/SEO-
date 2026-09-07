@@ -50,6 +50,40 @@ the JSON):
 - Town pages — differentiated content per town (not literal duplicates), correct internal
   linking to neighboring service-area pages.
 
+## Build 1, Review Pass 2 (2026-09-07) — sitewide content/markup/performance pass
+
+A second read-through (all 32 pages plus CSS), explicitly excluding phone/email since the user
+is handling those via WhatConverts/Vapi. Fixed:
+
+- **Sitewide typo:** "Septic Inspection (real Estate Transactions)" had broken capitalization
+  in the nav, headings, and form dropdown on every page (33 files). Fixed to "Real Estate."
+- **Malformed HTML sitewide:** every inline CTA button embedded in body copy was wrapped in an
+  invalid nested `<p>` tag (`<p>...<p><a>button</a></p></p>`) across 17 pages. Fixed with a
+  script-based pass (byte-identical pattern across files, confirmed via grep before and after).
+- **Structured data bug:** two FAQ page schema.org answers had the literal CTA text
+  "Get a Free Estimate" bleeding into the machine-readable answer — could surface awkwardly in
+  a Google rich snippet. Cleaned.
+- **Meaningless pricing tables:** all 6 service pages had tables where every cell said
+  "Site-specific estimate" / "Depends on..." — no actual numbers, reads as evasive rather than
+  careful. Replaced with real ballpark ranges (e.g. aerobic install $15k&ndash;$30k per our own
+  Dripping Springs research; tank pumping $300&ndash;$600; drain field replacement
+  $5k&ndash;$15k+), all still qualified as "general planning figures, not a quote" consistent
+  with the existing Disclaimer page.
+- **Two lazy meta descriptions** (`services.html`, `service-areas.html`) that were just a copy
+  of the page `<title>` — rewrote both with real, unique descriptions.
+- **Brand color never actually applied:** found the literal unfilled template placeholder
+  `{{BRAND_COLOR}}` still in the CSS comment — the whole site was running on the Builder's
+  default cyan (`#06d4ef`), not a real brand color. Applied `#0F6E8C` (deep teal-blue) across
+  the CSS variables and every page's `theme-color` meta tag.
+- **Image weight (per [community WebP tip](../../academy/bonus-community-wisdom/image-compression-webp.md)):**
+  converted all 5 site images from JPG to WebP (quality 82) — total image weight ~1.6MB → ~1.3MB
+  (19% smaller). Updated all `<img src>` references across all 32 pages and removed the old
+  JPGs. Site was already well under the 2-3MB PageSpeed guideline before this, but WebP is free
+  performance with no downside.
+
+Verified zero remaining instances of every issue above via grep before repackaging and
+resending the zip to the user.
+
 ## Next steps
 
 1. Complete WhatConverts + Vapi setup (Step 4), get a real Texas-area tracking number.
@@ -59,3 +93,5 @@ the JSON):
    re-download, re-upload (do not skip the regenerate/re-upload step).
 4. Re-send lead reports to self while testing; switch to the paying client's email once a real
    local septic company is paying for the leads.
+5. Once live, run the site through [PageSpeed Insights](https://pagespeed.web.dev) to confirm
+   real-world mobile/desktop scores.
