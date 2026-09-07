@@ -67,6 +67,22 @@ Offer Library is the shared catalog both paths pitch from, not a path itself.
   manipulate ranking.
 - First two decisions before building anything: what service, what town.
 
+### Domain rules (Step 2 of the Microsite Playbook)
+
+- Buy at Cloudflare Registrar (~$10.44/yr `.com`, at-cost, flat renewal, WHOIS privacy
+  included) or Porkbun (~$11.08/yr) — avoid cheap first-year deals elsewhere; the renewal is
+  where they get you.
+- `.com` only.
+- Exact-match domain only — a branded name (e.g. `locksmithpro.com`) gives up the SEO
+  advantage the method depends on.
+- Vary by location or intent, never by word order — `PlumbersHouston.com` and
+  `HoustonPlumbers.com` are the same site bought twice; `PlumbersHouston.com` +
+  `PlumbersDallas.com` is the correct multi-site pattern.
+- One intent + one geographic footprint per site — this is the actual definition of a
+  microsite in this method.
+- Pattern: `[service][location].com`. Buy exactly one domain per niche+town decision — no need
+  for a second domain until the first site is live.
+
 ### Niche/town validation workflow (Step 1 of the Microsite Playbook)
 
 1. Brainstorm with the Niche Finder GPT (given location + existing knowledge) rather than

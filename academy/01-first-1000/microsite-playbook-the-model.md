@@ -49,7 +49,8 @@ local reading it, it should not go up.
 ## What comes next
 
 Two decisions before building anything: **what service**, and **what town**. That's
-[Step 1](./microsite-playbook-step1-niche-and-town.md).
+[Step 1](./microsite-playbook-step1-niche-and-town.md). After that comes
+[Step 2: buying the domain](./microsite-playbook-step2-domain.md).
 
 ---
 
