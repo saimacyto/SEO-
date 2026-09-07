@@ -5,7 +5,10 @@ Tracks every service+town combo run through the Microsite Playbook's Step 1 proc
 each.
 
 See [`niche-opportunity-scores.md`](./niche-opportunity-scores.md) for the broader ~100-niche
-opportunity pre-screen used to shortlist candidates before spending Validator lookups.
+opportunity pre-screen used to shortlist candidates before spending Validator lookups, and
+[`2026-09-07-high-ticket-niches-pearland.md`](./2026-09-07-high-ticket-niches-pearland.md) for
+the $5k+-per-job pivot after foundation repair showed franchise saturation everywhere tested —
+Septic System Installation came out on top.
 
 | Date | Service | Town | Validator score | Competitors | Volume/mo | Decision |
 | ---- | ------- | ---- | ---------------- | ----------- | --------- | -------- |
