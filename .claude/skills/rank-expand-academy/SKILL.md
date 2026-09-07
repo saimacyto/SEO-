@@ -67,6 +67,18 @@ Offer Library is the shared catalog both paths pitch from, not a path itself.
   manipulate ranking.
 - First two decisions before building anything: what service, what town.
 
+### Building the site (Step 3): the One-Click Builder, not hand-coded HTML
+
+The intended build path is the official Builder at `build.rankexpand.com` (access code
+`PLAYBOOK2026`), not hand-authoring pages: business basics → AI-generated content via a
+provided ChatGPT link → load content back into the Builder → optional photos → download a
+finished static-HTML site → save the project file for future edits (phone number changes, call
+tracking, etc. — reload the project file rather than starting over). Cap services at 1-6 per
+site — a focused single-service site beats a multi-service one; extra services become the next
+microsite. After generating, review and tighten the OUTPUT HTML (not the source JSON) — fix
+facts, add one real local detail per page, cut generic filler. Only when a user has no access
+to this tool, or explicitly asks for hand-built HTML instead, should a site be built by hand.
+
 ### Domain rules (Step 2 of the Microsite Playbook)
 
 - Buy at Cloudflare Registrar (~$10.44/yr `.com`, at-cost, flat renewal, WHOIS privacy
