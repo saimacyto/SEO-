@@ -8,7 +8,9 @@ See [`niche-opportunity-scores.md`](./niche-opportunity-scores.md) for the broad
 opportunity pre-screen used to shortlist candidates before spending Validator lookups, and
 [`2026-09-07-high-ticket-niches-pearland.md`](./2026-09-07-high-ticket-niches-pearland.md) for
 the $5k+-per-job pivot after foundation repair showed franchise saturation everywhere tested —
-Septic System Installation came out on top.
+Septic System Installation came out on top. See also
+[`nationwide-high-ticket-niches.md`](./nationwide-high-ticket-niches.md) for the broadened,
+not-Texas-specific scan — Water Well Drilling is the current top pick.
 
 | Date | Service | Town | Validator score | Competitors | Volume/mo | Decision |
 | ---- | ------- | ---- | ---------------- | ----------- | --------- | -------- |
