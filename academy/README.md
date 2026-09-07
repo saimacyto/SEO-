@@ -37,6 +37,8 @@ Engine) for scaling a business once you've already made your first money — not
 - [`04-reps-are-the-roi/`](./04-reps-are-the-roi/README.md) — The gym-machine analogy: find the few repeatable, compounding activities that move the needle, then just do the reps daily instead of chasing new tactics.
 - [`05-revenue-generating-activities/`](./05-revenue-generating-activities/README.md) — The concrete list of revenue-generating "reps" (outreach, weekly publishing, semantic branching, AI Overview optimization, internal linking, technical fixes, conversion work, GSC review, content refreshes, credibility signals, promotion) vs. busywork that only feels productive.
 - [`06-real-financial-success/`](./06-real-financial-success/README.md) — Why real SEO success looks boring (a $6M+ case study run from a single broken-screen laptop): consistent, revenue-generating reps compound quietly and only look "explosive" from the outside.
+- [`bonus-community-wisdom/`](./bonus-community-wisdom/) — Operator-level community-shared workflows, not part of the core numbered playbook (this is where "Wisdom's In The Calls"-style content lives).
+  - [`weekly-gsc-ai-optimization.md`](./bonus-community-wisdom/weekly-gsc-ai-optimization.md) — the weekly GSC-export + Claude Code/Codex analysis workflow for deciding new-page vs. update-page vs. no-action, plus a full portfolio-scale automation stack (OAuth → Postgres → Next.js/Vercel/Supabase) for pulling GSC data daily once managing multiple sites.
 
 ## How this archive grows
 
