@@ -105,6 +105,16 @@ page missing = assets folder didn't come along or landed at the wrong level; "pa
 files nested one level too deep (index.html must sit at the top of the upload, not inside a
 subfolder); domain not loading at all = DNS propagation delay, wait a few hours.
 
+### Getting indexed (Step 6): Omega Indexer
+
+Once live, submit the site's URL list to Omega Indexer (Dashboard → Campaigns → + Create
+Campaign → Copy & Paste Links — paste the raw URL list, no file upload needed) with a dripfeed
+of 1-3 days for a first microsite (7-10 days for an 80-100 page build). The lesson assumes the
+URL list comes from opening `sitemap.xml` in a browser — **but the Builder does not actually
+generate one**, confirmed by inspecting real Builder output. Workaround: manually compile the
+URL list from the delivered page files, or run a free Screaming Frog crawl on the live site
+(the lesson's own fallback for a site you didn't build) to get the export instead.
+
 ### Domain rules (Step 2 of the Microsite Playbook)
 
 - Buy at Cloudflare Registrar (~$10.44/yr `.com`, at-cost, flat renewal, WHOIS privacy
