@@ -9,6 +9,16 @@
   score, competitor count, and monthly volume numbers not yet captured here.
 - Manual Google quote-search check not yet run.
 
+## Cross-check against the opportunity scoring matrix
+
+Ran against the [full niche opportunity matrix](./niche-opportunity-scores.md) (~100 local
+service niches). Foundation Repair scores **7/13 — mid-pack, roughly position 50-60 of 100**:
+high ticket value but low opportunity and a heavy saturation penalty, consistent with the brand
+loyalty concern below. Several niches score meaningfully higher (Emergency Locksmith,
+Emergency Electrician, Plumbing, Roadside Assistance, Tree Removal, Septic Tank
+Cleaning/Inspection all score 11-13) — worth running 1-2 of those through the Validator for the
+same target town(s) in parallel, rather than anchoring only on foundation repair.
+
 ## Open issues flagged before proceeding
 
 1. **Niche phrase is too vague.** "Foundation" alone isn't a real search phrase — need to
