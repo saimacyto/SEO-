@@ -79,6 +79,20 @@ microsite. After generating, review and tighten the OUTPUT HTML (not the source 
 facts, add one real local detail per page, cut generic filler. Only when a user has no access
 to this tool, or explicitly asks for hand-built HTML instead, should a site be built by hand.
 
+### Call tracking (Step 4): WhatConverts + Vapi
+
+Builder-generated sites tag every phone link with `class="wc-phone"` — WhatConverts-ready
+markup baked in before an account even exists. Setup: WhatConverts master account ($30/mo,
+unlimited profiles/microsites) → one local tracking number per site (~$3/mo) → recording +
+transcription turned on (paid per-use, but this is what makes lead reports worth sending to a
+client) → forward the tracking number to a Vapi AI receptionist number once that's set up →
+paste the WhatConverts tracking snippet back into the SAVED Builder project file → regenerate
+and re-upload (never skip the regenerate/re-upload step — a common failure mode is pasting the
+code in but not re-exporting, so nothing tracks on the live site). Reports go to the operator's
+own email while testing, then straight to the paying client once a business is paying for the
+leads — the report (call recording, transcript, lead-quality flag) is the actual product being
+sold, not just the phone call itself.
+
 ### Domain rules (Step 2 of the Microsite Playbook)
 
 - Buy at Cloudflare Registrar (~$10.44/yr `.com`, at-cost, flat renewal, WHOIS privacy
