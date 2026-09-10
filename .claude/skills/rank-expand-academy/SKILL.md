@@ -242,6 +242,17 @@ reps compounding quietly, not flashy dashboards, viral posts, or expensive setup
 compares their (unglamorous) progress to social-media highlight reels, reframe: the fancy gear
 and branding are not the signal; rep count on revenue-generating work is.
 
+## General SEO fundamentals (reference, not playbook-specific)
+
+A standalone 8-module general SEO primer lives at
+`academy/reference-guides/general-seo-fundamentals-guide.md` — covers fundamentals, on-page,
+technical SEO/Core Web Vitals, backlinks/DR, topical authority & keyword research, local SEO,
+measurement, and strategy. Not part of the sequential microsite playbook, but fills in the "why"
+behind mechanical playbook steps. One concrete gap it surfaces for any live microsite: **local
+SEO (Module 6) — Google Business Profile setup and NAP (Name/Address/Phone) consistency across
+directories — isn't covered by the playbook's numbered steps at all**, and is worth doing for
+every site in the portfolio once live.
+
 ## Working style this course expects
 
 - Small, precise, daily (5x/week) implementation — not binge-consuming modules.

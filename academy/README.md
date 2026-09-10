@@ -41,6 +41,8 @@ Engine) for scaling a business once you've already made your first money — not
 - [`bonus-community-wisdom/`](./bonus-community-wisdom/) — Operator-level community-shared workflows, not part of the core numbered playbook (this is where "Wisdom's In The Calls"-style content lives).
   - [`weekly-gsc-ai-optimization.md`](./bonus-community-wisdom/weekly-gsc-ai-optimization.md) — the weekly GSC-export + Claude Code/Codex analysis workflow for deciding new-page vs. update-page vs. no-action, plus a full portfolio-scale automation stack (OAuth → Postgres → Next.js/Vercel/Supabase) for pulling GSC data daily once managing multiple sites.
   - [`image-compression-webp.md`](./bonus-community-wisdom/image-compression-webp.md) — converting site images to WebP for PageSpeed (Squoosh for one-off, XnConvert for free local bulk conversion) — a 12MB homepage example dropping to 1.86MB, and applying the same pass to our own first site.
+- [`reference-guides/`](./reference-guides/) — standalone general reference material, not part of the sequential playbook.
+  - [`general-seo-fundamentals-guide.md`](./reference-guides/general-seo-fundamentals-guide.md) — an 8-module general SEO primer (fundamentals, on-page, technical SEO, backlinks/DR, topical authority & keyword research, local SEO, measurement, strategy) — the "why" behind moves the playbook already has you make mechanically.
 
 ## How this archive grows
 
